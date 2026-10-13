@@ -12,7 +12,7 @@ export default defineConfig({
   globalStyles: path.resolve('styles.css'),
   themeConfig: {
     darkMode: false,
-    nav: [{text: '使用指南', link: '/'}, {text: '管理设置', link: '/management'}, {text: '常见问题', link: '/faq'}, {text: '打印样例', link: '/print'}],
+    nav: [],
     sidebar: {
       '/': [{text: '指南首页', link: '/'}, {text: '业务办理', items: [
         {text: '开始使用与账号权限', link: '/guide/start'}, {text: 'JHA风险分析', link: '/guide/jha'},
