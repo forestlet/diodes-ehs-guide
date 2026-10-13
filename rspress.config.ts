@@ -7,7 +7,7 @@ export default defineConfig({
   siteOrigin: 'https://forestlet.github.io',
   lang: 'zh',
   title: '达迩 EHS 使用指南',
-  description: '按岗位和业务阅读达迩EHS操作步骤，查看表单打印样例。',
+  description: '按任务查找达迩EHS办理方法、岗位职责、管理设置、常见问题和打印样例。',
   logo: '/brand/diodes-logo.jpg',
   globalStyles: path.resolve('styles.css'),
   themeConfig: {
