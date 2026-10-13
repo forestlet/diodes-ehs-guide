@@ -1,0 +1,6 @@
+:root{--rp-c-brand:#005b8e;--rp-c-brand-light:#126f9d;--rp-c-brand-dark:#00436b;--rp-c-text-1:#27313a;--rp-c-text-2:#5c6b76;--rp-c-bg:#fff;--rp-c-divider:#d6dde1;--rp-radius:2px}
+.rp-doc img{border:1px solid #d6dde1;border-radius:2px;margin:16px 0;max-width:100%;height:auto}
+.rp-doc h2{font-size:21px;letter-spacing:0;margin-top:32px}.rp-doc h3{font-size:17px}
+.rp-nav-logo{max-height:34px}.rp-doc p,.rp-doc li{line-height:1.7}
+.rp-doc table th{background:#edf3f5}.rp-doc table{font-size:14px}
+a:focus-visible,button:focus-visible{outline:2px solid #005b8e;outline-offset:3px}
