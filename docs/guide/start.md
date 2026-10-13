@@ -2,102 +2,102 @@
 
 登录后在侧栏底部核对姓名和角色，再进入业务办理或我的待办。
 
-## 00-1 · 登录并选择当前角色
+## 登录并选择当前角色
 
-**办理岗位：** 本人账号 · 所有岗位
+<p className="guide-role">办理人：所有用户</p>
 
 1. 填写账号和密码登录。
 2. 查看左下角姓名、当前角色；兼任者从菜单切换已授权角色。
 3. 管理员优先进入管理后台，EHS工程师优先进入EHS测量设置，业务从工作台或我的待办进入。
 
-当前功能截图 · 2026-10-12
+<p className="guide-note">切换角色不增加权限，管理员不能凭管理员身份代签。</p>
 
-结果核对：切换角色不增加权限，管理员不能凭R01代签。
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/9fee256474fd767a6ba9.png" target="_blank" rel="noopener" aria-label="登录并选择当前角色，打开完整截图">
+<img src="/diodes-ehs-guide/images/9fee256474fd767a6ba9.png" alt="登录并选择当前角色" loading="lazy" />
+</a>
+</details>
 
-![00-1 · 登录并选择当前角色](/images/9fee256474fd767a6ba9.png)
+## 申请账号与填写邮箱
 
-<a href="/diodes-ehs-guide/images/9fee256474fd767a6ba9.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 00-2 · 申请账号与填写邮箱
-
-**办理岗位：** 新用户 · 待管理员开通
+<p className="guide-role">办理人：新用户</p>
 
 1. 登录页选择申请新账号，填写姓名、人员编号、单位、账号和密码。
 2. 邮箱可选；需要邮件找回密码时，填写可接收邮件的邮箱并完成验证。
 3. 提交注册后等待管理员审核角色和范围，开通后再办理业务。
 
-当前功能截图 · 2026-10-12
+<p className="guide-note">注册不会自动获得审批或资料访问权限。</p>
 
-结果核对：注册不会自动获得审批或资料访问权限。
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/4e58cfcf0df8cc1b1711.png" target="_blank" rel="noopener" aria-label="申请账号与填写邮箱，打开完整截图">
+<img src="/diodes-ehs-guide/images/4e58cfcf0df8cc1b1711.png" alt="申请账号与填写邮箱" loading="lazy" />
+</a>
+</details>
 
-![00-2 · 申请账号与填写邮箱](/images/4e58cfcf0df8cc1b1711.png)
+## 找回密码和重置链接
 
-<a href="/diodes-ehs-guide/images/4e58cfcf0df8cc1b1711.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 00-3 · 找回密码和重置链接
-
-**办理岗位：** 本人账号 · 已验证邮箱
+<p className="guide-role">办理人：所有用户</p>
 
 1. 登录页选择忘记密码，填写账号并提交。
 2. 通过已验证邮箱查收邮件，打开链接填写并确认新密码。
 3. 重置后重新登录；没有已验证邮箱时联系管理员办理重置。
 
-当前功能截图 · 2026-10-12
+<p className="guide-note">重置链接单次使用，30分钟内有效；未收到邮件时联系管理员。</p>
 
-结果核对：链接单次有效，30分钟过期。当前未配置真实邮件发送；正式发送需配置SMTP、HTTPS地址和邮件后台。
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/c4d614c1520e6ad78d15.png" target="_blank" rel="noopener" aria-label="找回密码和重置链接，打开完整截图">
+<img src="/diodes-ehs-guide/images/c4d614c1520e6ad78d15.png" alt="找回密码和重置链接" loading="lazy" />
+</a>
+</details>
 
-![00-3 · 找回密码和重置链接](/images/c4d614c1520e6ad78d15.png)
+## 管理员成员与角色范围
 
-<a href="/diodes-ehs-guide/images/c4d614c1520e6ad78d15.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 01 · 管理员成员与角色范围
-
-**办理岗位：** 试用管理员 · R01 系统管理员
+<p className="guide-role">办理人：系统管理员</p>
 
 1. 管理员登录后，功能导航首项为管理后台。
 2. 进入成员与权限，核对姓名、单位、角色及授权范围。
 3. 同一人兼任使用一个账号；管理员权限不能代替业务岗位签核。
 
-当前导航与设置截图 · 2026-10-12
+<p className="guide-note">管理员不因管理员身份获得业务审批权。</p>
 
-结果核对：管理员不因R01身份获得业务审批权。
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/369bb91156438eb77493.png" target="_blank" rel="noopener" aria-label="管理员成员与角色范围，打开完整截图">
+<img src="/diodes-ehs-guide/images/369bb91156438eb77493.png" alt="管理员成员与角色范围" loading="lazy" />
+</a>
+</details>
 
-填写依据：系统基础管理（原纸表的线上支撑）
+## 管理员查询操作日志
 
-![01 · 管理员成员与角色范围](/images/369bb91156438eb77493.png)
-
-<a href="/diodes-ehs-guide/images/369bb91156438eb77493.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 01-1 · 管理员查询操作日志
-
-**办理岗位：** 试用管理员 · R01
+<p className="guide-role">办理人：系统管理员</p>
 
 1. 管理后台→操作日志。
 2. 输入姓名、账号或操作名称查询，并使用上一页/下一页查看近期记录。
 3. 核对办理人、对象、时间与执行结果；具体审批意见在有权访问的单据历史中查看。
 
-当前功能截图 · 2026-10-12
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/4c76deacb0f7b90af94e.png" target="_blank" rel="noopener" aria-label="管理员查询操作日志，打开完整截图">
+<img src="/diodes-ehs-guide/images/4c76deacb0f7b90af94e.png" alt="管理员查询操作日志" loading="lazy" />
+</a>
+</details>
 
-结果核对：越权拒绝和登录失败也留痕；长期保存及备份配置见项目TODO。
+## 设置气体检测项目
 
-![01-1 · 管理员查询操作日志](/images/4c76deacb0f7b90af94e.png)
+<p className="guide-role">办理人：获指定的EHS维护人员</p>
 
-<a href="/diodes-ehs-guide/images/4c76deacb0f7b90af94e.png" target="_blank" rel="noopener">打开完整截图</a>
+1. 打开EHS测量设置，选择已授权的作业类别和部门。
+2. 逐行填写项目、单位、允许范围和边界条件。
+3. 填写适用条件及制度依据，保存设置。
 
-## 02 · EHS测量项目配置
+<p className="guide-note">动火与有限空间分别维护。已提交票据保留原限值。</p>
 
-**办理岗位：** 试用EHS工程师 · R06 EHS工程师
-
-1. 以EHS工程师角色登录，进入导航首项EHS测量设置，选择适用部门。
-2. 每项一行填写测量项目、单位、最低和最高允许值，并选择是否包含边界。
-3. 增删项目后填写制度依据或调整原因，保存并重新读取确认；已提交作业票保留当时限值快照。
-
-当前导航与设置截图 · 2026-10-12
-
-结果核对：气体项目来自原危险作业许可证第4页有限空间前检第7项，第1页动火有测定种类和值。部门配置是线上实现方式；当前两类作业共用配置，正式检测项目应按作业风险和批准制度核定。
-
-填写依据：危险作业许可证.pdf 第4页：气体测量项目
-
-![02 · EHS测量项目配置](/images/d84461871c9f196375a0.png)
-
-<a href="/diodes-ehs-guide/images/d84461871c9f196375a0.png" target="_blank" rel="noopener">打开完整截图</a>
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/d19cb0d6b45f9ef57c4e.png" target="_blank" rel="noopener" aria-label="设置气体检测项目，打开完整截图">
+<img src="/diodes-ehs-guide/images/d19cb0d6b45f9ef57c4e.png" alt="设置气体检测项目" loading="lazy" />
+</a>
+</details>

@@ -6,3 +6,13 @@
 .rp-nav-logo{max-height:34px}.rspress-doc p,.rspress-doc li{line-height:1.65}
 .rspress-doc table th{background:#f4f6f7;font-weight:500}.rspress-doc table{font-size:14px}
 a:focus-visible,button:focus-visible{outline:2px solid #005b8e;outline-offset:3px}
+.rspress-doc .guide-role{margin:6px 0 10px;font-size:13px;color:var(--rp-c-text-2)}
+.rspress-doc .guide-note{margin:12px 0;padding-left:12px;border-left:2px solid var(--rp-c-divider);color:var(--rp-c-text-2);font-size:13px}
+.rspress-doc .guide-capture{margin:12px 0 20px}
+.rspress-doc .guide-capture summary,.rspress-doc .guide-faq summary{cursor:pointer;min-height:36px;align-content:center;color:var(--rp-c-brand);font-size:14px}
+.rspress-doc .guide-capture img{margin:10px 0 0}
+.rspress-doc .guide-faq{border-bottom:1px solid var(--rp-c-divider);padding:10px 0}
+.rspress-doc .guide-faq summary{color:var(--rp-c-text-1);font-weight:500}
+.rspress-doc .guide-faq p{margin:12px 0}
+summary:focus-visible{outline:2px solid var(--rp-c-brand);outline-offset:3px}
+@media(max-width:640px){.rspress-doc .guide-capture summary,.rspress-doc .guide-faq summary{min-height:44px}}

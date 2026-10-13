@@ -11,7 +11,13 @@
 5. 在“检测规则维护范围”中指定部门、动火或有限空间、有效期和依据。被指定人员须具备该部门EHS工程师或EHS经理岗位权限。
 6. 填写调整原因，保存设置。系统记录调整前后的内容及办理人。
 
-![人员审批资格](/images/59c45496d74bcb5a92f6.png)
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/59c45496d74bcb5a92f6.png" target="_blank" rel="noopener" aria-label="人员审批资格，打开完整截图">
+<img src="/diodes-ehs-guide/images/59c45496d74bcb5a92f6.png" alt="人员审批资格" loading="lazy" />
+</a>
+</details>
+
 
 有限空间最终批准人须另填企业主要负责人或书面委托人，并填写授权有效期及依据。
 
@@ -23,7 +29,13 @@
 4. 填写制度依据和调整原因，保存设置。两类作业票分别维护，互不覆盖。
 5. 申请人和现场人员填写实际测量值。系统按作业票类别读取检测规则，并校验完整性和范围。
 
-![指定检测规则维护](/images/d19cb0d6b45f9ef57c4e.png)
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/d19cb0d6b45f9ef57c4e.png" target="_blank" rel="noopener" aria-label="指定检测规则维护，打开完整截图">
+<img src="/diodes-ehs-guide/images/d19cb0d6b45f9ef57c4e.png" alt="指定检测规则维护" loading="lazy" />
+</a>
+</details>
+
 
 维护授权到期或EHS岗位被撤销后，不能更改检测规则。
 

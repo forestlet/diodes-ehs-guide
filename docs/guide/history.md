@@ -2,38 +2,35 @@
 
 查询单据和办理意见，按权限处理修订、撤回、改派等操作。
 
-## 71 · 其他施工单位不能读取本单位资料
+## 查询记录与打印件
 
-**办理岗位：** 试用其他单位人员 · R02 申请人
+<p className="guide-role">办理人：有查看权限的用户</p>
 
-1. 以施工单位B的账号登录。
-2. 查询施工单位A的教学JHA，列表不会显示无授权资料。
-3. 直接访问该单据也被服务端拒绝。
+1. 进入全部记录，输入名称或按状态筛选。
+2. 打开记录，查看表单、审批意见和附件。
+3. 需要纸质文件时，打开查看打印件，打印或另存PDF。
 
-历史流程截图 · 2026-10-11
+<p className="guide-note">未授权资料不会展示；需要访问时联系管理员核对岗位和范围。</p>
 
-结果核对：本次实际列表无此单，详情返回404；共享或任务授权需另有依据。
+<details className="guide-capture">
+<summary>查看访问范围提示示例</summary>
+<a href="/diodes-ehs-guide/images/9aad96756fee18a463ac.png" target="_blank" rel="noopener" aria-label="查询记录与打印件，打开完整截图">
+<img src="/diodes-ehs-guide/images/9aad96756fee18a463ac.png" alt="查询记录与打印件" loading="lazy" />
+</a>
+</details>
 
-填写依据：一人一账号与单位范围控制
+## 管理员兼任业务岗位
 
-![71 · 其他施工单位不能读取本单位资料](/images/9aad96756fee18a463ac.png)
+<p className="guide-role">办理人：系统管理员</p>
 
-<a href="/diodes-ehs-guide/images/9aad96756fee18a463ac.png" target="_blank" rel="noopener">打开完整截图</a>
+1. 管理员兼任业务岗位时，先确认已获相应角色和范围。
+2. 在侧栏底部切换到业务角色，再进入记录或待办。
 
-## 72 · 管理员不能代替业务岗位查看审批
+<p className="guide-note">仅有管理员身份时，不能代替业务岗位查看或签核单据。</p>
 
-**办理岗位：** 试用管理员 · R01 系统管理员
-
-1. 管理员可以维护成员、范围、模块及改派。
-2. 单独R01不提供业务单据查看或审批权限。
-3. 实际兼任须明确授予业务角色并匹配范围及任务。
-
-历史流程截图 · 2026-10-11
-
-结果核对：本次管理员访问教学变更详情返回404，不能凭R01代签。
-
-填写依据：R01系统权限与R/D任务责任区分
-
-![72 · 管理员不能代替业务岗位查看审批](/images/4aedb35ab581d2a24720.png)
-
-<a href="/diodes-ehs-guide/images/4aedb35ab581d2a24720.png" target="_blank" rel="noopener">打开完整截图</a>
+<details className="guide-capture">
+<summary>查看权限提示示例</summary>
+<a href="/diodes-ehs-guide/images/4aedb35ab581d2a24720.png" target="_blank" rel="noopener" aria-label="管理员兼任业务岗位，打开完整截图">
+<img src="/diodes-ehs-guide/images/4aedb35ab581d2a24720.png" alt="管理员兼任业务岗位" loading="lazy" />
+</a>
+</details>

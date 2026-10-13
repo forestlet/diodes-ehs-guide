@@ -2,166 +2,143 @@
 
 内部申请人关联已审核JHA，填写施工资料和责任人员，提交审批。
 
-## 07 · 施工关联JHA并明确责任岗位
+## 施工关联JHA并明确责任岗位
 
-**办理岗位：** 试用申请人 · R02 申请人
+<p className="guide-role">办理人：申请人</p>
 
 1. 内部申请人新建施工申请，关联已批准JHA版本并填写地点。
 2. 开始和结束填写完整日期及时分，后续许可不得超出批准施工窗口。
 3. 指定负责人、工程师、经理、影响区域经理和EHS；候选人员按权限范围筛选。
-4. 星号表示正式提交必填；原表编号和分机等选填无星号。安全准备选不适用时须填写理由；草稿仍可先保存。
+4. 星号表示正式提交必填；编号和分机等选填无星号。安全准备选不适用时须填写理由；草稿仍可先保存。
 
-当前表格界面截图 · 2026-10-13
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" target="_blank" rel="noopener" aria-label="施工关联JHA并明确责任岗位，打开完整截图">
+<img src="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" alt="施工关联JHA并明确责任岗位" loading="lazy" />
+</a>
+</details>
 
-结果核对：教学施工日期为下一工作日，批准施工不代表危险作业可以立即开工。
+## 施工安全准备与特殊作业需求
 
-填写依据：施工申请单.pdf 第1页：工程、周期与签核栏
-
-![07 · 施工关联JHA并明确责任岗位](/images/9e51c0f5e4ffc1cb24e9.png)
-
-<a href="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 08 · 施工安全准备与特殊作业需求
-
-**办理岗位：** 试用申请人 · R02 申请人
+<p className="guide-role">办理人：申请人</p>
 
 1. 逐项填写安全准备，未完成项不能正式提交。
 2. 不适用项填写理由。
 3. 勾选所需危险作业，填写人员及围护信息。
 
-当前表格界面截图 · 2026-10-13
+<p className="guide-note">所需高架许可将在施工批准后单独申请。</p>
 
-结果核对：所需高架许可将在施工批准后单独申请。
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" target="_blank" rel="noopener" aria-label="施工安全准备与特殊作业需求，打开完整截图">
+<img src="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" alt="施工安全准备与特殊作业需求" loading="lazy" />
+</a>
+</details>
 
-填写依据：施工申请单.pdf 第1页：七项安全准备与特殊作业需求
+## 施工申请：打印表单记录及另存PDF
 
-![08 · 施工安全准备与特殊作业需求](/images/9e51c0f5e4ffc1cb24e9.png)
-
-<a href="/diodes-ehs-guide/images/9e51c0f5e4ffc1cb24e9.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 08-1 · 施工申请：打印原表式记录及另存PDF
-
-**办理岗位：** 有权查看本单据的人员
+<p className="guide-role">办理人：所有用户</p>
 
 1. 保存后在单据详情点击查看打印件；内容来自已保存单据，未保存的输入不会导出。
 2. 核对施工周期、区域和作业类型选择、七项安全准备、材料和人员信息。
 3. 点击打印／另存为PDF，在浏览器选择另存为PDF，关闭浏览器页眉页脚。
 4. 岗位区只显示本版本实际已完成签核；完整意见和历史轮次见后附记录。
 
-当前功能截图 · 2026-10-13
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/ac4817ebf396966aef54.png" target="_blank" rel="noopener" aria-label="施工申请：打印表单记录及另存PDF，打开完整截图">
+<img src="/diodes-ehs-guide/images/ac4817ebf396966aef54.png" alt="施工申请：打印表单记录及另存PDF" loading="lazy" />
+</a>
+</details>
 
-查看审批后施工PDF教学样例
+## 施工负责人责任确认
 
-结果核对：按原施工申请表栏目排版，非原PDF逐像素覆写；草稿/未批准有明确标记，不能作为批准许可。长内容续页，不裁切。
-
-![08-1 · 施工申请：打印原表式记录及另存PDF](/images/ac4817ebf396966aef54.png)
-
-<a href="/diodes-ehs-guide/images/ac4817ebf396966aef54.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 09 · 施工负责人责任确认
-
-**办理岗位：** 试用施工负责人 · R03 施工负责人
+<p className="guide-role">办理人：施工负责人</p>
 
 1. 进入我的待办，打开指定单据。
 2. 核对资料及本次职责，填写具体处理意见。
 3. 点击同意；会签中的其他岗位仍需独立办理。
 
-历史流程截图 · 2026-10-11
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/d98632cdec1d3202e0b4.png" target="_blank" rel="noopener" aria-label="施工负责人责任确认，打开完整截图">
+<img src="/diodes-ehs-guide/images/d98632cdec1d3202e0b4.png" alt="施工负责人责任确认" loading="lazy" />
+</a>
+</details>
 
-结果核对：当前任务：D04 施工负责人；仅本次实际办理人可签核。
+## 工程负责人技术确认
 
-填写依据：施工申请单.pdf 第1页签核栏
-
-![09 · 施工负责人责任确认](/images/d98632cdec1d3202e0b4.png)
-
-<a href="/diodes-ehs-guide/images/d98632cdec1d3202e0b4.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 10 · 工程负责人技术确认
-
-**办理岗位：** 试用工程师 · R04 工程师
+<p className="guide-role">办理人：工程师</p>
 
 1. 进入我的待办，打开指定单据。
 2. 核对资料及本次职责，填写具体处理意见。
 3. 点击同意；会签中的其他岗位仍需独立办理。
 
-历史流程截图 · 2026-10-11
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/7d6254768f83dc4d2a32.png" target="_blank" rel="noopener" aria-label="工程负责人技术确认，打开完整截图">
+<img src="/diodes-ehs-guide/images/7d6254768f83dc4d2a32.png" alt="工程负责人技术确认" loading="lazy" />
+</a>
+</details>
 
-结果核对：当前任务：D05 工程负责人；仅本次实际办理人可签核。
+## 工程部门经理会签
 
-填写依据：施工申请单.pdf 第1页签核栏
-
-![10 · 工程负责人技术确认](/images/7d6254768f83dc4d2a32.png)
-
-<a href="/diodes-ehs-guide/images/7d6254768f83dc4d2a32.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 11 · 工程部门经理会签
-
-**办理岗位：** 试用工程经理 · R05 部门经理
+<p className="guide-role">办理人：部门经理</p>
 
 1. 进入我的待办，打开指定单据。
 2. 核对资料及本次职责，填写具体处理意见。
 3. 点击同意；会签中的其他岗位仍需独立办理。
 
-历史流程截图 · 2026-10-11
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/c38ee49cc7286dc03a2d.png" target="_blank" rel="noopener" aria-label="工程部门经理会签，打开完整截图">
+<img src="/diodes-ehs-guide/images/c38ee49cc7286dc03a2d.png" alt="工程部门经理会签" loading="lazy" />
+</a>
+</details>
 
-结果核对：当前任务：D07 工程部门经理；仅本次实际办理人可签核。
+## 影响区域经理独立会签
 
-填写依据：施工申请单.pdf 第1页签核栏
-
-![11 · 工程部门经理会签](/images/c38ee49cc7286dc03a2d.png)
-
-<a href="/diodes-ehs-guide/images/c38ee49cc7286dc03a2d.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 12 · 影响区域经理独立会签
-
-**办理岗位：** 试用区域经理 · R05 部门经理
+<p className="guide-role">办理人：部门经理</p>
 
 1. 进入我的待办，打开指定单据。
 2. 核对资料及本次职责，填写具体处理意见。
 3. 点击同意；会签中的其他岗位仍需独立办理。
 
-历史流程截图 · 2026-10-11
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/d2deac469ff79ea147b2.png" target="_blank" rel="noopener" aria-label="影响区域经理独立会签，打开完整截图">
+<img src="/diodes-ehs-guide/images/d2deac469ff79ea147b2.png" alt="影响区域经理独立会签" loading="lazy" />
+</a>
+</details>
 
-结果核对：当前任务：D08 影响区域经理；仅本次实际办理人可签核。
+## EHS施工最终审查
 
-填写依据：施工申请单.pdf 第1页签核栏
-
-![12 · 影响区域经理独立会签](/images/d2deac469ff79ea147b2.png)
-
-<a href="/diodes-ehs-guide/images/d2deac469ff79ea147b2.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 13 · EHS施工最终审查
-
-**办理岗位：** 试用EHS工程师 · R06 EHS工程师
+<p className="guide-role">办理人：EHS工程师</p>
 
 1. 进入我的待办，打开指定单据。
 2. 核对资料及本次职责，填写具体处理意见。
 3. 点击同意；会签中的其他岗位仍需独立办理。
 
-历史流程截图 · 2026-10-11
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/95e14aac2f74362e238f.png" target="_blank" rel="noopener" aria-label="EHS施工最终审查，打开完整截图">
+<img src="/diodes-ehs-guide/images/95e14aac2f74362e238f.png" alt="EHS施工最终审查" loading="lazy" />
+</a>
+</details>
 
-结果核对：当前任务：EHS施工审查；仅本次实际办理人可签核。
+## 施工已批准及后续许可入口
 
-填写依据：施工申请单.pdf 第1页签核栏
-
-![13 · EHS施工最终审查](/images/95e14aac2f74362e238f.png)
-
-<a href="/diodes-ehs-guide/images/95e14aac2f74362e238f.png" target="_blank" rel="noopener">打开完整截图</a>
-
-## 14 · 施工已批准及后续许可入口
-
-**办理岗位：** 试用申请人 · R02 申请人
+<p className="guide-role">办理人：申请人</p>
 
 1. 核对施工已批准及各岗位签核。
 2. 按所需作业类型申请危险作业许可证。
 3. 施工批准、作业许可批准、现场开工是三个不同结果。
 
-历史流程截图 · 2026-10-11
+<p className="guide-note">经理会签全部完成后才进入EHS审查，施工单保留批准记录。</p>
 
-结果核对：经理会签全部完成后才进入EHS审查，施工单保留批准记录。
-
-填写依据：施工申请单.pdf 第1页：签核结果及特殊作业说明
-
-![14 · 施工已批准及后续许可入口](/images/04e79519dcb6eb749c4e.png)
-
-<a href="/diodes-ehs-guide/images/04e79519dcb6eb749c4e.png" target="_blank" rel="noopener">打开完整截图</a>
+<details className="guide-capture">
+<summary>查看界面示例</summary>
+<a href="/diodes-ehs-guide/images/04e79519dcb6eb749c4e.png" target="_blank" rel="noopener" aria-label="施工已批准及后续许可入口，打开完整截图">
+<img src="/diodes-ehs-guide/images/04e79519dcb6eb749c4e.png" alt="施工已批准及后续许可入口" loading="lazy" />
+</a>
+</details>
