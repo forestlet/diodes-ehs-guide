@@ -12,7 +12,10 @@ export default defineConfig({
   globalStyles: path.resolve('styles.css'),
   themeConfig: {
     darkMode: false,
-    nav: [],
+    nav: [
+      { text: '打开网页版', link: 'https://8.160.180.140:8443/' },
+      { text: '下载安卓 APP', link: 'https://8.160.180.140:8443/downloads/daer-ehs-latest.apk' },
+    ],
     sidebar: {
       '/': [{text: '指南首页', link: '/'}, {text: '业务办理', items: [
         {text: '开始使用与账号权限', link: '/guide/start'}, {text: 'JHA风险分析', link: '/guide/jha'},

@@ -6,16 +6,16 @@
 
 <p className="guide-role">办理人：所有用户</p>
 
-1. 填写账号和密码登录。
-2. 查看左下角姓名、当前角色；兼任者从菜单切换已授权角色。
-3. 管理员优先进入管理后台，EHS工程师优先进入EHS测量设置，业务从工作台或我的待办进入。
+1. 从网页版入口登录；安卓也可在登录页下载APP，安装后使用同一账号。
+2. 登录后进入工作台，查看本人申请、我的待办和现场办理事项。
+3. 在账号菜单核对姓名和当前角色；兼任者切换已授权角色。手机可从顶部账号菜单操作。
 
-<p className="guide-note">切换角色不增加权限，管理员不能凭管理员身份代签。</p>
+<p className="guide-note">切换角色不增加权限。管理后台和EHS测量设置从侧栏进入；管理员不能代签业务审批。</p>
 
 <details className="guide-capture">
-<summary>查看界面示例</summary>
-<a href="/diodes-ehs-guide/images/9fee256474fd767a6ba9.png" target="_blank" rel="noopener" aria-label="登录并选择当前角色，打开完整截图">
-<img src="/diodes-ehs-guide/images/9fee256474fd767a6ba9.png" alt="登录并选择当前角色" loading="lazy" />
+<summary>查看当前工作台（2026-10-19）</summary>
+<a href="/diodes-ehs-guide/images/86444ca91c32bbb44834.png" target="_blank" rel="noopener" aria-label="登录并选择当前角色，打开完整截图">
+<img src="/diodes-ehs-guide/images/86444ca91c32bbb44834.png" alt="登录并选择当前角色" loading="lazy" />
 </a>
 </details>
 
@@ -57,16 +57,16 @@
 
 <p className="guide-role">办理人：系统管理员</p>
 
-1. 管理员登录后，功能导航首项为管理后台。
-2. 进入成员与权限，核对姓名、单位、角色及授权范围。
-3. 同一人兼任使用一个账号；管理员权限不能代替业务岗位签核。
+1. 管理员登录后进入工作台，从侧栏设置区打开管理后台。
+2. 在成员与权限中核对姓名、单位及各角色范围；可下载人员导入模板，上传核对后批量开通。
+3. 同一人兼任使用一个账号；初始密码单独交付，新成员首次登录按要求改密。
 
 <p className="guide-note">管理员不因管理员身份获得业务审批权。</p>
 
 <details className="guide-capture">
-<summary>查看界面示例</summary>
-<a href="/diodes-ehs-guide/images/369bb91156438eb77493.png" target="_blank" rel="noopener" aria-label="管理员成员与角色范围，打开完整截图">
-<img src="/diodes-ehs-guide/images/369bb91156438eb77493.png" alt="管理员成员与角色范围" loading="lazy" />
+<summary>查看当前成员目录（2026-10-19）</summary>
+<a href="/diodes-ehs-guide/images/269924d81893ba3dda2f.png" target="_blank" rel="noopener" aria-label="管理员成员与角色范围，打开完整截图">
+<img src="/diodes-ehs-guide/images/269924d81893ba3dda2f.png" alt="管理员成员与角色范围" loading="lazy" />
 </a>
 </details>
 
